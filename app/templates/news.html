@@ -7,9 +7,14 @@
                   <div class="col p-3">
                       <div class="card p-3">
                           <div class="card-body">
-                              
+                            <h3 class="card-title test-warning">{{source.name}}</h3>
+                            <p class="card-text text-bold text-dark fs-3"><strong>{{source.description}}</strong></p>
+                            <button class="btn btn-success p-2"><a href="{{source.url}}"></a>Read more</button>
+
                           </div>
                       </div>
                   </div>
-              </div>
-          </ul>
+                </div>
+                {% endfor %}
+          </ul> 
+{% endblock %}
