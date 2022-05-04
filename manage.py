@@ -3,7 +3,9 @@ from flask_script import manager,server
   
 app =create_app('development')
 
-manager=manager(app)
- manager.add_command('server',server)
- if __name__ =='__main__':
+manager=manager(app);
+manager.add_command('server',server) 
+
+  
+if __name__ =='__main__':
      manager.run()
