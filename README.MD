@@ -16,11 +16,11 @@ users search for the specific news they want,football,business,health and techno
 ## Known Bugs
 no API for my users to access in the email
 ## Technologies Used
- PYTHON =FLASK
- HTML=DESIGN
- CSS=STYLING
- JAVASCRIPT=USER INTERFACE
- POWERSHELL
+* PYTHON =FLASK
+* HTML=DESIGN
+* CSS=STYLING
+* JAVASCRIPT=USER INTERFACE
+* POWERSHELL
  
 ## Support and contact details
 contact me on christinenkatha8@gmail.com
