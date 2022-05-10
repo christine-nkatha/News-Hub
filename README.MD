@@ -6,6 +6,8 @@ NEWS-HUB
          
 ## Description
 users search for the specific news they want,football,business,health and technologial and its not limited its both local and internatinal
+## live link
+* check my work in here https://nkatha-news.herokuapp.com/
 
 
 ## Setup/Installation Requirements
